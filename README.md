@@ -1,4 +1,4 @@
-# Python script and CNN Model for 2023/2024 IMLO Individual Assessment
+# Python Script and CNN Model for 2023/2024 IMLO Individual Assessment
 
 This project implements a Convolutional Neural Network for classifying flower images from the Oxford Flowers-102 dataset using PyTorch.
 

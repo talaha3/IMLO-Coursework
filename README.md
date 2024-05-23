@@ -9,7 +9,7 @@ It is strongly recommended to run the training program on a computer with a GPU.
 1. **Create the Python virtual environment**:
 
    ```sh
-   cd IMLOAssessment
+   cd IMLO-Coursework
    python -m venv myenv
    ```
 

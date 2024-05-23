@@ -21,13 +21,13 @@ It is strongly recommended to run the training program on a computer with a GPU.
 
 3. **Activating virtual environment**:
 
-   ### On Windows:
+   #### On Windows:
 
    ```sh
    ./myenv/Scripts/activate.bat
    ```
 
-   ### On Mac and Linux:
+   #### On Mac and Linux:
 
    ```sh
    $ source myvenv/bin/activate

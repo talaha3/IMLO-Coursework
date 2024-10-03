@@ -36,7 +36,7 @@ It is strongly recommended to run the training program on a computer with a GPU.
 4. **Install the required packages**:
 
    ```sh
-   pip install torch torchvision matplotlib
+   pip install torch torchvision matplotlib scipy
    ```
 
 ## Usage

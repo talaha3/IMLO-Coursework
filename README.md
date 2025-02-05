@@ -9,7 +9,7 @@ It is strongly recommended to run the training program on a computer with a GPU.
 1. **Clone repository**:
 
    ```sh
-   git clone #hidden for anonymity#
+   git clone git@github.com:talaha3/IMLO-Coursework.git
    ```
 
 2. **Create the Python virtual environment**:

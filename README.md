@@ -36,7 +36,7 @@ It is strongly recommended to run the training program on a computer with a GPU.
 4. **Install the required packages**:
 
    ```sh
-   pip install torch torchvision matplotlib scipy
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -64,3 +64,5 @@ python modelTest.py
 `bestmodel.pt`: Saved model with trained parameters yielding highest accuracy.
 
 `dataset_mean_std.py`: Calculates and prints the mean and standard deviation of the training set.
+
+`requirements.txt`: List of pip packages required to run the program.
